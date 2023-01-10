@@ -1,0 +1,85 @@
+.tudo{
+ width:auto ;
+  clear: both;
+  background-color: #FFF;
+  line-height: 1.5em;
+  padding: 9em;
+  border: double #FFBC53;
+  margin: 9em;
+
+}
+.logo{
+  text-align: center;
+}
+.intro{
+  font-family: sans-serif;
+	margin: 2em 0 1em;
+}
+.intro h2{
+	font-size: 1em;
+  text-transform: uppercase;
+  color: #2167f2;
+  border-top: 1px solid;
+  border-left: 3px solid;
+  padding-left: 1em;
+  margin-top: 2.5em;
+}
+.regras{
+  font-family: sans-serif;
+	margin: 2em 0 1em;
+}
+.regras h2{
+  font-size: 1em;
+  text-transform: uppercase;
+  color: #2167f2;
+  border-top: 1px solid;
+  border-left: 3px solid;
+  padding-left: 1em;
+  margin-top: 2.5em;
+}
+.link{
+  font-family: sans-serif;
+	margin: 3em 0 1em;
+  color:#2167f2;;
+}
+.link h2 {
+ font-size: 1em;
+  text-transform: uppercase;
+  color: #2167f2;
+  border-top: 1px solid;
+  border-left: 3px solid;
+  padding-left: 1em;
+  margin-top: 2.5em;
+}
+.link img{
+  float: left;
+  margin: 2px;
+  
+}
+.snake{
+  font-size: 1em;
+  text-transform: uppercase;
+  color: #2167f2;
+  border-top: 1px solid;
+  border-left: 3px solid;
+  padding-left: 1em;
+  margin-top: 6.5em;
+}
+
+.snake h5{
+ color: #000000; 
+}
+
+.snake p{
+ color: #000000; 
+}
+
+.card1{
+width: 50%;
+margin:0 3%;
+float: left;
+border: 1px solid black;
+
+}
+
+

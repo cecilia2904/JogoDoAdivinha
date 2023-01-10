@@ -1,0 +1,33 @@
+.intro h1{
+  text-align: center;
+	margin: 2em 0 1em;
+  font-size: 3em;
+	font-family: sans-serif;
+	letter-spacing: .2em;
+	color: #2167f2;
+	margin-top: 3px;
+}
+.intro {
+  text-align: center;
+	margin: 2em 0 1em;
+  font-size: 1em;
+	font-family: sans-serif;
+}
+.intro img{
+  float: left;
+  margin: 2px;
+}
+.form{
+text-align: center;
+	margin: 2em 0 1em;
+  font-family: sans-serif;
+}
+.resultadoParas{
+  text-align: center;
+	margin: 2em 0 1em;
+  font-size: 1em;
+	font-family: sans-serif;
+	letter-spacing: .2em;
+	color:  #593903;
+	margin-top: 3px;
+}
